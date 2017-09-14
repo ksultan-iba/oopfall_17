@@ -1,7 +1,7 @@
 package com.LAB;
 import java.util.Scanner;
 public class Main {
-
+//documentation missing - for which problem have you subitted this code?
     public static void main(String[] args) {
 	Scanner in = new Scanner(System.in);
         System.out.println("enter an integer");
